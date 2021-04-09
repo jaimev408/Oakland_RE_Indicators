@@ -1,0 +1,138 @@
+﻿Select District/School,Select Grade,Select Subgroup,Academic Year,Score,Total Tested,Score,COUNT([Academic Year]) / TOTAL(COUNT([Academic Year])) along Score,COUNT([Academic Year]) / TOTAL(COUNT([Academic Year])) along Score,Count of Academic Year
+All Schools,All Grades,African American,2017-18,0 out of 6,"1,861",0 out of 6,2.80%,2.80%,53
+All Schools,All Grades,African American,2017-18,1 out of 6,"1,861",1 out of 6,7.60%,7.60%,141
+All Schools,All Grades,African American,2017-18,2 out of 6,"1,861",2 out of 6,14.80%,14.80%,276
+All Schools,All Grades,African American,2017-18,3 out of 6,"1,861",3 out of 6,19.50%,19.50%,362
+All Schools,All Grades,African American,2017-18,4 out of 6,"1,861",4 out of 6,20.80%,20.80%,387
+All Schools,All Grades,African American,2017-18,5 out of 6,"1,861",5 out of 6,18.60%,18.60%,346
+All Schools,All Grades,African American,2017-18,6 out of 6,"1,861",6 out of 6,15.90%,15.90%,296
+All Schools,All Grades,African American,2018-19,0 out of 6,"1,791",0 out of 6,4.20%,4.20%,76
+All Schools,All Grades,African American,2018-19,1 out of 6,"1,791",1 out of 6,9.40%,9.40%,168
+All Schools,All Grades,African American,2018-19,2 out of 6,"1,791",2 out of 6,15.10%,15.10%,271
+All Schools,All Grades,African American,2018-19,3 out of 6,"1,791",3 out of 6,19.20%,19.20%,344
+All Schools,All Grades,African American,2018-19,4 out of 6,"1,791",4 out of 6,20.00%,20.00%,358
+All Schools,All Grades,African American,2018-19,5 out of 6,"1,791",5 out of 6,16.40%,16.40%,294
+All Schools,All Grades,African American,2018-19,6 out of 6,"1,791",6 out of 6,15.60%,15.60%,280
+All Schools,All Grades,Asian,2017-18,0 out of 6,984,0 out of 6,1.10%,1.10%,11
+All Schools,All Grades,Asian,2017-18,1 out of 6,984,1 out of 6,3.20%,3.20%,31
+All Schools,All Grades,Asian,2017-18,2 out of 6,984,2 out of 6,5.90%,5.90%,58
+All Schools,All Grades,Asian,2017-18,3 out of 6,984,3 out of 6,10.90%,10.90%,107
+All Schools,All Grades,Asian,2017-18,4 out of 6,984,4 out of 6,17.40%,17.40%,171
+All Schools,All Grades,Asian,2017-18,5 out of 6,984,5 out of 6,27.30%,27.30%,269
+All Schools,All Grades,Asian,2017-18,6 out of 6,984,6 out of 6,34.20%,34.20%,337
+All Schools,All Grades,Asian,2018-19,0 out of 6,927,0 out of 6,1.20%,1.20%,11
+All Schools,All Grades,Asian,2018-19,1 out of 6,927,1 out of 6,4.10%,4.10%,38
+All Schools,All Grades,Asian,2018-19,2 out of 6,927,2 out of 6,7.00%,7.00%,65
+All Schools,All Grades,Asian,2018-19,3 out of 6,927,3 out of 6,10.50%,10.50%,97
+All Schools,All Grades,Asian,2018-19,4 out of 6,927,4 out of 6,20.50%,20.50%,190
+All Schools,All Grades,Asian,2018-19,5 out of 6,927,5 out of 6,26.00%,26.00%,241
+All Schools,All Grades,Asian,2018-19,6 out of 6,927,6 out of 6,30.70%,30.70%,285
+All Schools,All Grades,Filipino,2017-18,1 out of 6,68,1 out of 6,2.90%,2.90%,2
+All Schools,All Grades,Filipino,2017-18,2 out of 6,68,2 out of 6,10.30%,10.30%,7
+All Schools,All Grades,Filipino,2017-18,3 out of 6,68,3 out of 6,13.20%,13.20%,9
+All Schools,All Grades,Filipino,2017-18,4 out of 6,68,4 out of 6,17.60%,17.60%,12
+All Schools,All Grades,Filipino,2017-18,5 out of 6,68,5 out of 6,22.10%,22.10%,15
+All Schools,All Grades,Filipino,2017-18,6 out of 6,68,6 out of 6,33.80%,33.80%,23
+All Schools,All Grades,Filipino,2018-19,0 out of 6,58,0 out of 6,1.70%,1.70%,1
+All Schools,All Grades,Filipino,2018-19,1 out of 6,58,1 out of 6,6.90%,6.90%,4
+All Schools,All Grades,Filipino,2018-19,2 out of 6,58,2 out of 6,17.20%,17.20%,10
+All Schools,All Grades,Filipino,2018-19,3 out of 6,58,3 out of 6,15.50%,15.50%,9
+All Schools,All Grades,Filipino,2018-19,4 out of 6,58,4 out of 6,19.00%,19.00%,11
+All Schools,All Grades,Filipino,2018-19,5 out of 6,58,5 out of 6,31.00%,31.00%,18
+All Schools,All Grades,Filipino,2018-19,6 out of 6,58,6 out of 6,8.60%,8.60%,5
+All Schools,All Grades,Latino,2017-18,0 out of 6,"3,220",0 out of 6,2.00%,2.00%,66
+All Schools,All Grades,Latino,2017-18,1 out of 6,"3,220",1 out of 6,8.20%,8.20%,263
+All Schools,All Grades,Latino,2017-18,2 out of 6,"3,220",2 out of 6,14.70%,14.70%,473
+All Schools,All Grades,Latino,2017-18,3 out of 6,"3,220",3 out of 6,19.20%,19.20%,618
+All Schools,All Grades,Latino,2017-18,4 out of 6,"3,220",4 out of 6,21.70%,21.70%,698
+All Schools,All Grades,Latino,2017-18,5 out of 6,"3,220",5 out of 6,19.80%,19.80%,638
+All Schools,All Grades,Latino,2017-18,6 out of 6,"3,220",6 out of 6,14.40%,14.40%,464
+All Schools,All Grades,Latino,2018-19,0 out of 6,"3,211",0 out of 6,3.10%,3.10%,99
+All Schools,All Grades,Latino,2018-19,1 out of 6,"3,211",1 out of 6,9.50%,9.50%,306
+All Schools,All Grades,Latino,2018-19,2 out of 6,"3,211",2 out of 6,16.10%,16.10%,516
+All Schools,All Grades,Latino,2018-19,3 out of 6,"3,211",3 out of 6,18.70%,18.70%,601
+All Schools,All Grades,Latino,2018-19,4 out of 6,"3,211",4 out of 6,20.70%,20.70%,664
+All Schools,All Grades,Latino,2018-19,5 out of 6,"3,211",5 out of 6,17.90%,17.90%,576
+All Schools,All Grades,Latino,2018-19,6 out of 6,"3,211",6 out of 6,14.00%,14.00%,449
+All Schools,All Grades,Multiple Ethnicity,2017-18,0 out of 6,245,0 out of 6,0.80%,0.80%,2
+All Schools,All Grades,Multiple Ethnicity,2017-18,1 out of 6,245,1 out of 6,4.50%,4.50%,11
+All Schools,All Grades,Multiple Ethnicity,2017-18,2 out of 6,245,2 out of 6,9.40%,9.40%,23
+All Schools,All Grades,Multiple Ethnicity,2017-18,3 out of 6,245,3 out of 6,11.40%,11.40%,28
+All Schools,All Grades,Multiple Ethnicity,2017-18,4 out of 6,245,4 out of 6,17.10%,17.10%,42
+All Schools,All Grades,Multiple Ethnicity,2017-18,5 out of 6,245,5 out of 6,26.50%,26.50%,65
+All Schools,All Grades,Multiple Ethnicity,2017-18,6 out of 6,245,6 out of 6,30.20%,30.20%,74
+All Schools,All Grades,Multiple Ethnicity,2018-19,0 out of 6,298,0 out of 6,1.30%,1.30%,4
+All Schools,All Grades,Multiple Ethnicity,2018-19,1 out of 6,298,1 out of 6,2.70%,2.70%,8
+All Schools,All Grades,Multiple Ethnicity,2018-19,2 out of 6,298,2 out of 6,12.10%,12.10%,36
+All Schools,All Grades,Multiple Ethnicity,2018-19,3 out of 6,298,3 out of 6,8.10%,8.10%,24
+All Schools,All Grades,Multiple Ethnicity,2018-19,4 out of 6,298,4 out of 6,16.10%,16.10%,48
+All Schools,All Grades,Multiple Ethnicity,2018-19,5 out of 6,298,5 out of 6,24.20%,24.20%,72
+All Schools,All Grades,Multiple Ethnicity,2018-19,6 out of 6,298,6 out of 6,35.60%,35.60%,106
+All Schools,All Grades,Native American,2017-18,1 out of 6,15,1 out of 6,6.70%,6.70%,1
+All Schools,All Grades,Native American,2017-18,2 out of 6,15,2 out of 6,26.70%,26.70%,4
+All Schools,All Grades,Native American,2017-18,3 out of 6,15,3 out of 6,6.70%,6.70%,1
+All Schools,All Grades,Native American,2017-18,4 out of 6,15,4 out of 6,13.30%,13.30%,2
+All Schools,All Grades,Native American,2017-18,5 out of 6,15,5 out of 6,26.70%,26.70%,4
+All Schools,All Grades,Native American,2017-18,6 out of 6,15,6 out of 6,20.00%,20.00%,3
+All Schools,All Grades,Native American,2018-19,1 out of 6,22,1 out of 6,9.10%,9.10%,2
+All Schools,All Grades,Native American,2018-19,2 out of 6,22,2 out of 6,22.70%,22.70%,5
+All Schools,All Grades,Native American,2018-19,3 out of 6,22,3 out of 6,9.10%,9.10%,2
+All Schools,All Grades,Native American,2018-19,4 out of 6,22,4 out of 6,13.60%,13.60%,3
+All Schools,All Grades,Native American,2018-19,5 out of 6,22,5 out of 6,18.20%,18.20%,4
+All Schools,All Grades,Native American,2018-19,6 out of 6,22,6 out of 6,27.30%,27.30%,6
+All Schools,All Grades,Not Reported,2017-18,0 out of 6,119,0 out of 6,3.40%,3.40%,4
+All Schools,All Grades,Not Reported,2017-18,1 out of 6,119,1 out of 6,3.40%,3.40%,4
+All Schools,All Grades,Not Reported,2017-18,2 out of 6,119,2 out of 6,8.40%,8.40%,10
+All Schools,All Grades,Not Reported,2017-18,3 out of 6,119,3 out of 6,19.30%,19.30%,23
+All Schools,All Grades,Not Reported,2017-18,4 out of 6,119,4 out of 6,22.70%,22.70%,27
+All Schools,All Grades,Not Reported,2017-18,5 out of 6,119,5 out of 6,20.20%,20.20%,24
+All Schools,All Grades,Not Reported,2017-18,6 out of 6,119,6 out of 6,22.70%,22.70%,27
+All Schools,All Grades,Not Reported,2018-19,0 out of 6,114,0 out of 6,2.60%,2.60%,3
+All Schools,All Grades,Not Reported,2018-19,1 out of 6,114,1 out of 6,7.00%,7.00%,8
+All Schools,All Grades,Not Reported,2018-19,2 out of 6,114,2 out of 6,11.40%,11.40%,13
+All Schools,All Grades,Not Reported,2018-19,3 out of 6,114,3 out of 6,14.90%,14.90%,17
+All Schools,All Grades,Not Reported,2018-19,4 out of 6,114,4 out of 6,18.40%,18.40%,21
+All Schools,All Grades,Not Reported,2018-19,5 out of 6,114,5 out of 6,24.60%,24.60%,28
+All Schools,All Grades,Not Reported,2018-19,6 out of 6,114,6 out of 6,21.10%,21.10%,24
+All Schools,All Grades,Pacific Islander,2017-18,0 out of 6,81,0 out of 6,2.50%,2.50%,2
+All Schools,All Grades,Pacific Islander,2017-18,1 out of 6,81,1 out of 6,8.60%,8.60%,7
+All Schools,All Grades,Pacific Islander,2017-18,2 out of 6,81,2 out of 6,17.30%,17.30%,14
+All Schools,All Grades,Pacific Islander,2017-18,3 out of 6,81,3 out of 6,25.90%,25.90%,21
+All Schools,All Grades,Pacific Islander,2017-18,4 out of 6,81,4 out of 6,18.50%,18.50%,15
+All Schools,All Grades,Pacific Islander,2017-18,5 out of 6,81,5 out of 6,11.10%,11.10%,9
+All Schools,All Grades,Pacific Islander,2017-18,6 out of 6,81,6 out of 6,16.00%,16.00%,13
+All Schools,All Grades,Pacific Islander,2018-19,0 out of 6,88,0 out of 6,5.70%,5.70%,5
+All Schools,All Grades,Pacific Islander,2018-19,1 out of 6,88,1 out of 6,4.50%,4.50%,4
+All Schools,All Grades,Pacific Islander,2018-19,2 out of 6,88,2 out of 6,13.60%,13.60%,12
+All Schools,All Grades,Pacific Islander,2018-19,3 out of 6,88,3 out of 6,23.90%,23.90%,21
+All Schools,All Grades,Pacific Islander,2018-19,4 out of 6,88,4 out of 6,19.30%,19.30%,17
+All Schools,All Grades,Pacific Islander,2018-19,5 out of 6,88,5 out of 6,22.70%,22.70%,20
+All Schools,All Grades,Pacific Islander,2018-19,6 out of 6,88,6 out of 6,10.20%,10.20%,9
+All Schools,All Grades,White,2017-18,0 out of 6,812,0 out of 6,0.70%,0.70%,6
+All Schools,All Grades,White,2017-18,1 out of 6,812,1 out of 6,2.30%,2.30%,19
+All Schools,All Grades,White,2017-18,2 out of 6,812,2 out of 6,6.70%,6.70%,54
+All Schools,All Grades,White,2017-18,3 out of 6,812,3 out of 6,7.90%,7.90%,64
+All Schools,All Grades,White,2017-18,4 out of 6,812,4 out of 6,17.00%,17.00%,138
+All Schools,All Grades,White,2017-18,5 out of 6,812,5 out of 6,25.20%,25.20%,205
+All Schools,All Grades,White,2017-18,6 out of 6,812,6 out of 6,40.10%,40.10%,326
+All Schools,All Grades,White,2018-19,0 out of 6,811,0 out of 6,1.10%,1.10%,9
+All Schools,All Grades,White,2018-19,1 out of 6,811,1 out of 6,1.80%,1.80%,15
+All Schools,All Grades,White,2018-19,2 out of 6,811,2 out of 6,6.00%,6.00%,49
+All Schools,All Grades,White,2018-19,3 out of 6,811,3 out of 6,10.20%,10.20%,83
+All Schools,All Grades,White,2018-19,4 out of 6,811,4 out of 6,16.80%,16.80%,136
+All Schools,All Grades,White,2018-19,5 out of 6,811,5 out of 6,26.50%,26.50%,215
+All Schools,All Grades,White,2018-19,6 out of 6,811,6 out of 6,37.50%,37.50%,304
+All Schools,All Grades,All Students,2017-18,0 out of 6,"7,405",0 out of 6,1.90%,1.90%,144
+All Schools,All Grades,All Students,2017-18,1 out of 6,"7,405",1 out of 6,6.50%,6.50%,479
+All Schools,All Grades,All Students,2017-18,2 out of 6,"7,405",2 out of 6,12.40%,12.40%,919
+All Schools,All Grades,All Students,2017-18,3 out of 6,"7,405",3 out of 6,16.70%,16.70%,"1,233"
+All Schools,All Grades,All Students,2017-18,4 out of 6,"7,405",4 out of 6,20.10%,20.10%,"1,492"
+All Schools,All Grades,All Students,2017-18,5 out of 6,"7,405",5 out of 6,21.30%,21.30%,"1,575"
+All Schools,All Grades,All Students,2017-18,6 out of 6,"7,405",6 out of 6,21.10%,21.10%,"1,563"
+All Schools,All Grades,All Students,2018-19,0 out of 6,"7,320",0 out of 6,2.80%,2.80%,208
+All Schools,All Grades,All Students,2018-19,1 out of 6,"7,320",1 out of 6,7.60%,7.60%,553
+All Schools,All Grades,All Students,2018-19,2 out of 6,"7,320",2 out of 6,13.30%,13.30%,977
+All Schools,All Grades,All Students,2018-19,3 out of 6,"7,320",3 out of 6,16.40%,16.40%,"1,198"
+All Schools,All Grades,All Students,2018-19,4 out of 6,"7,320",4 out of 6,19.80%,19.80%,"1,448"
+All Schools,All Grades,All Students,2018-19,5 out of 6,"7,320",5 out of 6,20.10%,20.10%,"1,468"
+All Schools,All Grades,All Students,2018-19,6 out of 6,"7,320",6 out of 6,20.10%,20.10%,"1,468"

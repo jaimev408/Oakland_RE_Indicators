@@ -1,0 +1,81 @@
+﻿Academic Year,Network / School,Grade / Group,Test Assignment,Score Level,Score Type,Student Group,Perf Band,COUNTD([SSID dummy]) / TOTAL(COUNTD([SSID dummy])),COUNTD([SSID dummy]) / TOTAL(COUNTD([SSID dummy])),COUNTD([SSID dummy]) / TOTAL(COUNTD([SSID dummy])),Distinct count of SSID dummy,Group Total
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,African American,Standard Exceeded,0.044598835,0.044598835,0.044598835,199,4462
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,African American,Standard Met,0.147691618,0.147691618,0.147691618,659,4462
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,African American,Standard Nearly Met,0.218960108,0.218960108,0.218960108,977,4462
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,African American,Standard Not Met,0.58874944,0.58874944,0.58874944,2627,4462
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Asian,Standard Exceeded,0.208910035,0.208910035,0.208910035,483,2312
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Asian,Standard Met,0.28633218,0.28633218,0.28633218,662,2312
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Asian,Standard Nearly Met,0.211072664,0.211072664,0.211072664,488,2312
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Asian,Standard Not Met,0.293685121,0.293685121,0.293685121,679,2312
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Filipino,Standard Exceeded,0.133802817,0.133802817,0.133802817,19,142
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Filipino,Standard Met,0.302816901,0.302816901,0.302816901,43,142
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Filipino,Standard Nearly Met,0.274647887,0.274647887,0.274647887,39,142
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Filipino,Standard Not Met,0.288732394,0.288732394,0.288732394,41,142
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Latino,Standard Exceeded,0.064503097,0.064503097,0.064503097,479,7426
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Latino,Standard Met,0.173444654,0.173444654,0.173444654,1288,7426
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Latino,Standard Nearly Met,0.246566119,0.246566119,0.246566119,1831,7426
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Latino,Standard Not Met,0.51548613,0.51548613,0.51548613,3828,7426
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Multiple Ethnicity,Standard Exceeded,0.336122734,0.336122734,0.336122734,241,717
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Multiple Ethnicity,Standard Met,0.270571827,0.270571827,0.270571827,194,717
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Multiple Ethnicity,Standard Nearly Met,0.172942817,0.172942817,0.172942817,124,717
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Multiple Ethnicity,Standard Not Met,0.220362622,0.220362622,0.220362622,158,717
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Native American,Standard Exceeded,0.06122449,0.06122449,0.06122449,3,49
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Native American,Standard Met,0.142857143,0.142857143,0.142857143,7,49
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Native American,Standard Nearly Met,0.285714286,0.285714286,0.285714286,14,49
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Native American,Standard Not Met,0.510204082,0.510204082,0.510204082,25,49
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Not Reported,Standard Exceeded,0.113333333,0.113333333,0.113333333,34,300
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Not Reported,Standard Met,0.183333333,0.183333333,0.183333333,55,300
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Not Reported,Standard Nearly Met,0.173333333,0.173333333,0.173333333,52,300
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Not Reported,Standard Not Met,0.53,0.53,0.53,159,300
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Pacific Islander,Standard Exceeded,0.038461538,0.038461538,0.038461538,8,208
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Pacific Islander,Standard Met,0.129807692,0.129807692,0.129807692,27,208
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Pacific Islander,Standard Nearly Met,0.274038462,0.274038462,0.274038462,57,208
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Pacific Islander,Standard Not Met,0.557692308,0.557692308,0.557692308,116,208
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,White,Standard Exceeded,0.432697014,0.432697014,0.432697014,884,2043
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,White,Standard Met,0.282427802,0.282427802,0.282427802,577,2043
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,White,Standard Nearly Met,0.135095448,0.135095448,0.135095448,276,2043
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,White,Standard Not Met,0.149779736,0.149779736,0.149779736,306,2043
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,African American,Standard Exceeded,0.045728039,0.045728039,0.045728039,190,4155
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,African American,Standard Met,0.142478941,0.142478941,0.142478941,592,4155
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,African American,Standard Nearly Met,0.215403129,0.215403129,0.215403129,895,4155
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,African American,Standard Not Met,0.596389892,0.596389892,0.596389892,2478,4155
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Asian,Standard Exceeded,0.230319388,0.230319388,0.230319388,512,2223
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Asian,Standard Met,0.271704903,0.271704903,0.271704903,604,2223
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Asian,Standard Nearly Met,0.206477733,0.206477733,0.206477733,459,2223
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Asian,Standard Not Met,0.291497976,0.291497976,0.291497976,648,2223
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Filipino,Standard Exceeded,0.12,0.12,0.12,15,125
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Filipino,Standard Met,0.304,0.304,0.304,38,125
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Filipino,Standard Nearly Met,0.296,0.296,0.296,37,125
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Filipino,Standard Not Met,0.28,0.28,0.28,35,125
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Latino,Standard Exceeded,0.067340964,0.067340964,0.067340964,506,7514
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Latino,Standard Met,0.17327655,0.17327655,0.17327655,1302,7514
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Latino,Standard Nearly Met,0.235161033,0.235161033,0.235161033,1767,7514
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Latino,Standard Not Met,0.524221453,0.524221453,0.524221453,3939,7514
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Multiple Ethnicity,Standard Exceeded,0.33290653,0.33290653,0.33290653,260,781
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Multiple Ethnicity,Standard Met,0.276568502,0.276568502,0.276568502,216,781
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Multiple Ethnicity,Standard Nearly Met,0.174135723,0.174135723,0.174135723,136,781
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Multiple Ethnicity,Standard Not Met,0.216389245,0.216389245,0.216389245,169,781
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Native American,Standard Exceeded,0.0625,0.0625,0.0625,3,48
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Native American,Standard Met,0.104166667,0.104166667,0.104166667,5,48
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Native American,Standard Nearly Met,0.3125,0.3125,0.3125,15,48
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Native American,Standard Not Met,0.520833333,0.520833333,0.520833333,25,48
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Not Reported,Standard Exceeded,0.110344828,0.110344828,0.110344828,32,290
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Not Reported,Standard Met,0.186206897,0.186206897,0.186206897,54,290
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Not Reported,Standard Nearly Met,0.220689655,0.220689655,0.220689655,64,290
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Not Reported,Standard Not Met,0.482758621,0.482758621,0.482758621,140,290
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Pacific Islander,Standard Exceeded,0.038461538,0.038461538,0.038461538,8,208
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Pacific Islander,Standard Met,0.120192308,0.120192308,0.120192308,25,208
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Pacific Islander,Standard Nearly Met,0.264423077,0.264423077,0.264423077,55,208
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,Pacific Islander,Standard Not Met,0.576923077,0.576923077,0.576923077,120,208
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,White,Standard Exceeded,0.451451451,0.451451451,0.451451451,902,1998
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,White,Standard Met,0.276776777,0.276776777,0.276776777,553,1998
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,White,Standard Nearly Met,0.124124124,0.124124124,0.124124124,248,1998
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,White,Standard Not Met,0.147647648,0.147647648,0.147647648,295,1998
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,All Students,Standard Exceeded,0.133076618,0.133076618,0.133076618,2350,17659
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,All Students,Standard Met,0.198878759,0.198878759,0.198878759,3512,17659
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,All Students,Standard Nearly Met,0.218472167,0.218472167,0.218472167,3858,17659
+2017-18,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,All Students,Standard Not Met,0.449572456,0.449572456,0.449572456,7939,17659
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,All Students,Standard Exceeded,0.14000692,0.14000692,0.14000692,2428,17342
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,All Students,Standard Met,0.19542152,0.19542152,0.19542152,3389,17342
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,All Students,Standard Nearly Met,0.211970938,0.211970938,0.211970938,3676,17342
+2018-19,All Schools,All Grades,SBAC ELA,Overall,ELA/ Literacy,All Students,Standard Not Met,0.452600623,0.452600623,0.452600623,7849,17342
